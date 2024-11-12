@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shadow78ab
-- 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Alireza
+- 🌱 I’m learning python and AI...
+- 👾 I am also interested in hacking and cyber security
 
 <!---
 shadow78ab/shadow78ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
